@@ -1,3 +1,5 @@
+package query;
+
 public class Mysql {
     public static void main(String[] args) {
 
