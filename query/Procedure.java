@@ -25,4 +25,8 @@ public class Procedure {
 //  -- error가 발생할 때 수행하는 문장
 //
 //            END;  --> 필수
+
+// 개념
+//    습
+
 }
